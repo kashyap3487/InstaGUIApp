@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">InstagramGUI</string>
+    <string name="textview">TextView</string>
+    <string name="your_story">Your Story</string>
+    <string name="frd_story">FRD_STORY</string>
+    <string name="kashyap_kapadia">Kashyap Kapadia</string>
+    <string name="user_image">User_Image</string>
+</resources>
